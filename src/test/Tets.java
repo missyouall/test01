@@ -2,6 +2,6 @@ package test;
 
 public class Tets {
 	public static void main(String[] args) {
-		System.out.println("hello  worrrld 666uu");
+		System.out.println("yyuuuu");
 	}
 }
